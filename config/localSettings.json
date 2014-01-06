@@ -16,64 +16,217 @@
 			"browserFamily": "Chrome",
 			"browserMajor": "22"
 		},
-		"Chrome31": {
-			"browserFamily": "Chrome",
-			"browserMajor": "31"
-		},
 		"Chrome23": {
 			"browserFamily": "Chrome",
 			"browserMajor": "23"
 		},
+    "Chrome24": {
+      "browserFamily": "Chrome",
+      "browserMajor": "24"
+    },
+    "Chrome25": {
+      "browserFamily": "Chrome",
+      "browserMajor": "25"
+    },
+    "Chrome26": {
+      "browserFamily": "Chrome",
+      "browserMajor": "26"
+    },
+    "Chrome27": {
+      "browserFamily": "Chrome",
+      "browserMajor": "27"
+    },
+    "Chrome28": {
+      "browserFamily": "Chrome",
+      "browserMajor": "28"
+    },
+    "Chrome29": {
+      "browserFamily": "Chrome",
+      "browserMajor": "29"
+    },
+    "Chrome30": {
+      "browserFamily": "Chrome",
+      "browserMajor": "30"
+    },
+    "Chrome31": {
+      "browserFamily": "Chrome",
+      "browserMajor": "31"
+    },
 		"Firefox18": {
 			"browserFamily": "Firefox",
 			"browserMajor": "18"
 		},
+    "Firefox19": {
+      "browserFamily": "Firefox",
+      "browserMajor": "19"
+    },
+    "Firefox20": {
+      "browserFamily": "Firefox",
+      "browserMajor": "20"
+    },
+    "Firefox21": {
+      "browserFamily": "Firefox",
+      "browserMajor": "21"
+    },
+    "Firefox22": {
+      "browserFamily": "Firefox",
+      "browserMajor": "22"
+    },
+    "Firefox23": {
+      "browserFamily": "Firefox",
+      "browserMajor": "23"
+    },
+    "Firefox24": {
+      "browserFamily": "Firefox",
+      "browserMajor": "24"
+    },
+    "Firefox25": {
+      "browserFamily": "Firefox",
+      "browserMajor": "25"
+    },
+    "Firefox26": {
+      "browserFamily": "Firefox",
+      "browserMajor": "26"
+    },
+    "IE7": {
+      "browserFamily": "IE",
+      "browserMajor": "7"
+    },
+    "IE8": {
+      "browserFamily": "IE",
+      "browserMajor": "8"
+    },
+    "IE9": {
+      "browserFamily": "IE",
+      "browserMajor": "9"
+    },
 		"IE10": {
 			"browserFamily": "IE",
 			"browserMajor": "10"
 		},
-		"Safari5Win": {
+		"Safari5.1Win": {
 			"browserFamily": "Safari",
 			"browserMajor": "5",
 			"browserMinor": "1",
 			"osFamily": "Windows XP"
 		},
+    "Safari5.1Mac": {
+      "browserFamily": "Safari",
+      "browserMajor": "5",
+      "browserMinor": "1",
+      "osFamily": "MacOS X"
+    },
 		"Safari6": {
 			"browserFamily": "Safari",
 			"browserMajor": "6"
 		},
+    "Safari6.1": {
+      "browserFamily": "Safari",
+      "browserMajor": "6",
+      "browserMinor": "1"
+    },
+    "Safari7": {
+      "browserFamily": "Safari",
+      "browserMajor": "7",
+      "browserMinor": "1"
+    },
+    "Safari7.1": {
+      "browserFamily": "Safari",
+      "browserMajor": "7",
+      "browserMinor": "1"
+    },
+    "Opera9.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "9",
+      "browserMinor": "0*"
+    },
+    "Opera10.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "10",
+      "browserMinor": "0*"
+    },
+    "Opera11.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "11",
+      "browserMinor": "0*"
+    },
 		"Opera12.0": {
 			"browserFamily": "Opera",
 			"browserMajor": "12",
 			"browserMinor": "0*"
 		},
-		"Android2.3": {
-			"osFamily": "Android",
-			"osMajor": "2",
-			"osMinor": "3"
-		},
-		"iOS5.1": {
-			"osFamily": "iOS",
-			"osMajor": "5",
-			"osMinor": "1"
-		},
-		"iOS6/iPad": {
-			"deviceFamily": "iPad",
-			"osFamily": "iOS",
-			"osMajor": "6"
-		}
+    "Opera13.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "13",
+      "browserMinor": "0*"
+    },
+    "Opera14.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "14",
+      "browserMinor": "0*"
+    },
+    "Opera15.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "15",
+      "browserMinor": "0*"
+    },
+    "Opera16.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "16",
+      "browserMinor": "0*"
+    },
+    "Opera17.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "17",
+      "browserMinor": "0*"
+    },
+    "Opera18.0": {
+      "browserFamily": "Opera",
+      "browserMajor": "18",
+      "browserMinor": "0*"
+    }
 	},
 	"browserSets": {
 		"example": [
-			"Chrome31",
 			"Chrome23",
+			"Chrome24",
+			"Chrome25",
+			"Chrome26",
+			"Chrome27",
+			"Chrome28",
+			"Chrome29",
+			"Chrome30",
+			"Chrome31",
 			"Firefox18",
+			"Firefox19",
+			"Firefox20",
+			"Firefox21",
+			"Firefox22",
+			"Firefox23",
+			"Firefox24",
+			"Firefox25",
+			"Firefox26",
+			"Firefox27",
+			"IE7",
+			"IE8",
+			"IE9",
 			"IE10",
+			"Opera9.0",
+			"Opera10.0",
+			"Opera11.0",
 			"Opera12.0",
+			"Opera13.0",
+			"Opera14.0",
+			"Opera15.0",
+			"Opera16.0",
+			"Opera17.0",
+			"Opera18.0",
+      "Safari5.1Win",
+      "Safari5.1Mac",
 			"Safari6",
-			"Android2.3",
-			"iOS5.1",
-			"iOS6/iPad"
+			"Safari6.1",
+			"Safari7",
+			"Safari7.1"
 		]
 	}
 }
