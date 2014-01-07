@@ -12,6 +12,293 @@
 		"cacheDir": "$1/cache"
 	},
 	"userAgents": {
+
+    // Mozilla Firefox Windows XP
+    "Firefox3.6 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "3",
+      "browserMinor": "6",
+      "osFamily": "Windows XP"
+    },
+    "Firefox4.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "4",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox5.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "5",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox6.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "6",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox7.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "7",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox8.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "8",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox9.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "9",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox10.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "10",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox11.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "11",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox12.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "12",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox13.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "13",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox14.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "14",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox15.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "15",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox16.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "16",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox17.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "17",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox18.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "18",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox19.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "19",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox20.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "20",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox21.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "21",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox22.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "22",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox23.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "23",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox24.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "24",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    "Firefox25.0 XP": {
+      "browserFamily": "Firefox",
+      "browserMajor": "25",
+      "browserMinor": "0",
+      "osFamily": "Windows XP"
+    },
+    // Google Chrome Windows XP
+    "Chrome14 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "14",
+      "osFamily": "Windows XP"
+    },
+    "Chrome15 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "15",
+      "osFamily": "Windows XP"
+    },
+    "Chrome16 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "16",
+      "osFamily": "Windows XP"
+    },
+    "Chrome17 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "17",
+      "osFamily": "Windows XP"
+    },
+    "Chrome18 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "18",
+      "osFamily": "Windows XP"
+    },
+    "Chrome19 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "19",
+      "osFamily": "Windows XP"
+    },
+    "Chrome20 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "20",
+      "osFamily": "Windows XP"
+    },
+    "Chrome21 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "21",
+      "osFamily": "Windows XP"
+    },
+    "Chrome22 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "22",
+      "osFamily": "Windows XP"
+    },
+    "Chrome23 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "23",
+      "osFamily": "Windows XP"
+    },
+    "Chrome24 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "24",
+      "osFamily": "Windows XP"
+    },
+    "Chrome25 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "25",
+      "osFamily": "Windows XP"
+    },
+    "Chrome26 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "26",
+      "osFamily": "Windows XP"
+    },
+    "Chrome27 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "27",
+      "osFamily": "Windows XP"
+    },
+    "Chrome28 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "28",
+      "osFamily": "Windows XP"
+    },
+    "Chrome29 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "29",
+      "osFamily": "Windows XP"
+    },
+    "Chrome30 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "30",
+      "osFamily": "Windows XP"
+    },
+    "Chrome31 XP": {
+      "browserFamily": "Chrome",
+      "browserMajor": "31",
+      "osFamily": "Windows XP"
+    },
+
+    // Internet Explorer Windows XP
+    "IE6 XP": {
+      "browserFamily": "IE",
+      "browserMajor": "6",
+      "osFamily": "Windows XP"
+    },
+    "IE7 XP": {
+      "browserFamily": "IE",
+      "browserMajor": "7",
+      "osFamily": "Windows XP"
+    },
+
+    // Opera Windows XP
+    "Opera11.6 XP": {
+      "browserFamily": "Opera",
+      "browserMajor": "11",
+      "browserMinor": "6"
+    },
+    "Opera12.10 XP": {
+      "browserFamily": "Opera",
+      "browserMajor": "12",
+      "browserMinor": "10",
+      "osFamily": "Windows XP"
+    },
+    "Opera12.14 XP": {
+      "browserFamily": "Opera",
+      "browserMajor": "12",
+      "browserMinor": "14",
+      "osFamily": "Windows XP"
+    },
+    "Opera12.15 XP": {
+      "browserFamily": "Opera",
+      "browserMajor": "12",
+      "browserMinor": "15",
+      "osFamily": "Windows XP"
+    },
+    "Opera12.16 XP": {
+      "browserFamily": "Opera",
+      "browserMajor": "12",
+      "browserMinor": "16",
+      "osFamily": "Windows XP"
+    },
+    // Safari Windows XP
+    "Safari 5.1 XP": {
+      "browserFamily": "Safari",
+      "browserMajor": "5",
+      "browserMinor": "1",
+      "osFamily": "Windows XP"
+    },
+
+
+
+
+
+
 		"Chrome22": {
 			"browserFamily": "Chrome",
 			"browserMajor": "22"
@@ -187,7 +474,7 @@
     }
 	},
 	"browserSets": {
-		"example": [
+		"all": [
 			"Chrome23",
 			"Chrome24",
 			"Chrome25",
@@ -227,6 +514,10 @@
 			"Safari6.1",
 			"Safari7",
 			"Safari7.1"
-		]
+		],
+    "Windows XP": [
+    ],
+    "Windows Vista": [
+    ]
 	}
 }
