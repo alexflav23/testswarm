@@ -1007,7 +1007,7 @@
       "browserFamily": "Firefox",
       "browserMajor": "20",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "7"
     },
     "Firefox21.0 OSX Lion": {
       "browserFamily": "Firefox",
@@ -1173,233 +1173,233 @@
       "browserFamily": "Firefox",
       "browserMajor": "3",
       "browserMinor": "6",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox4.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "4",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox5.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "5",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox6.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "6",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox7.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "7",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox8.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "8",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox9.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "9",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox10.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "10",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox11.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "11",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox12.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "12",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox13.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "13",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox14.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "14",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox15.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "15",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox16.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "16",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox17.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "17",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox18.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "18",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox19.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "19",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox20.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "20",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox21.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "21",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox22.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "22",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox23.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "23",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox24.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "24",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox25.0 OSX Mavericks": {
       "browserFamily": "Firefox",
       "browserMajor": "25",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
-    // Google Chrome Mac OS X Mavericks
+    // Google Chrome Mac OS X
     "Chrome14 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "14",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome15 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "15",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome16 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "16",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome17 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "17",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome18 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "18",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome19 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "19",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome20 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "20",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome21 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "21",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome22 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "22",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome23 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "23",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome24 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "24",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome25 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "25",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome26 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "26",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome27 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "27",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome28 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "28",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome29 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "29",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome30 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "30",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Chrome31 OSX Mavericks": {
       "browserFamily": "Chrome",
       "browserMajor": "31",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
 
-    // Opera Mac OS X Mavericks
+    // Opera Mac OS X
     "Opera11.6 OSX Mavericks": {
       "browserFamily": "Opera",
       "browserMajor": "11",
@@ -1409,276 +1409,276 @@
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "10",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Opera12.14 OSX Mavericks": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "14",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Opera12.15 OSX Mavericks": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "15",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Opera12.16 OSX Mavericks": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "16",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
-    // Safari Mac OS X Mavericks
+    // Safari Mac OS X
     "Safari 7 OSX Mavericks": {
       "browserFamily": "Safari",
       "browserMajor": "7",
       "browserMinor": "*",
-      "osFamily": "Mac OS X Mavericks"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "9"
     },
     "Firefox3.6 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "3",
       "browserMinor": "6",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox4.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "4",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox5.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "5",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox6.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "6",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox7.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "7",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox8.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "8",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox9.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "9",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox10.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "10",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox11.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "11",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox12.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "12",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox13.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "13",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox14.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "14",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox15.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "15",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox16.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "16",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox17.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "17",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox18.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "18",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox19.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "19",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox20.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "20",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox21.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "21",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox22.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "22",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox23.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "23",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox24.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "24",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox25.0 OSX Mountain Lion": {
       "browserFamily": "Firefox",
       "browserMajor": "25",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
-    // Google Chrome Mac OS X Mountain Lion
+    // Google Chrome Mac OS X
     "Chrome14 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "14",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome15 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "15",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome16 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "16",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome17 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "17",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome18 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "18",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome19 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "19",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome20 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "20",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome21 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "21",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome22 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "22",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome23 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "23",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome24 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "24",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome25 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "25",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome26 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "26",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome27 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "27",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome28 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "28",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome29 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "29",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome30 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "30",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Chrome31 OSX Mountain Lion": {
       "browserFamily": "Chrome",
       "browserMajor": "31",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
 
-    // Internet EOSX Mountain Lionlorer Mac OS X Mountain Lion
+    // Internet EOSX Mountain Lionlorer Mac OS X
     "IE6 OSX Mountain Lion": {
       "browserFamily": "IE",
       "browserMajor": "6",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "IE7 OSX Mountain Lion": {
       "browserFamily": "IE",
       "browserMajor": "7",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
 
-    // Opera Mac OS X Mountain Lion
+    // Opera Mac OS X
     "Opera11.6 OSX Mountain Lion": {
       "browserFamily": "Opera",
       "browserMajor": "11",
@@ -1688,258 +1688,258 @@
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "10",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Opera12.14 OSX Mountain Lion": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "14",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Opera12.15 OSX Mountain Lion": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "15",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Opera12.16 OSX Mountain Lion": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "16",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
-    // Safari Mac OS X Mountain Lion
+    // Safari Mac OS X
     "Safari 6.1 OSX Mountain Lion": {
       "browserFamily": "Safari",
       "browserMajor": "6",
       "browserMinor": "1",
-      "osFamily": "Mac OS X Mountain Lion"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "8"
     },
     "Firefox4.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "4",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X", "osMajor": "10", "osMinor": "6"
     },
     "Firefox5.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "5",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox6.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "6",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox7.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "7",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox8.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "8",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox9.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "9",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox10.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "10",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox11.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "11",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox12.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "12",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox13.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "13",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox14.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "14",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox15.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "15",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox16.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "16",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox17.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "17",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox18.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "18",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox19.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "19",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox20.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "20",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox21.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "21",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox22.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "22",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox23.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "23",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox24.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "24",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Firefox25.0 OSX Snow Leopard": {
       "browserFamily": "Firefox",
       "browserMajor": "25",
       "browserMinor": "0",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
-    // Google Chrome Mac OS X Snow Leopard
+    // Google Chrome Mac OS X
     "Chrome14 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "14",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome15 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "15",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome16 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "16",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome17 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "17",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome18 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "18",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome19 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "19",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome20 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "20",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome21 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "21",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome22 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "22",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome23 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "23",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome24 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "24",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome25 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "25",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome26 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "26",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome27 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "27",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome28 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "28",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome29 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "29",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome30 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "30",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Chrome31 OSX Snow Leopard": {
       "browserFamily": "Chrome",
       "browserMajor": "31",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
 
-    // Opera Mac OS X Snow Leopard
+    // Opera Mac OS X
     "Opera11.6 OSX Snow Leopard": {
       "browserFamily": "Opera",
       "browserMajor": "11",
@@ -1949,32 +1949,32 @@
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "10",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Opera12.14 OSX Snow Leopard": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "14",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Opera12.15 OSX Snow Leopard": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "15",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
     "Opera12.16 OSX Snow Leopard": {
       "browserFamily": "Opera",
       "browserMajor": "12",
       "browserMinor": "16",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     },
-    // Safari Mac OS X Snow Leopard
+    // Safari Mac OS X
     "Safari 5.1 OSX Snow Leopard": {
       "browserFamily": "Safari",
       "browserMajor": "5",
       "browserMinor": "1",
-      "osFamily": "Mac OS X Snow Leopard"
+      "osFamily": "Mac OS X"
     }
 
 	},
@@ -2545,7 +2545,7 @@
       "Opera12.16 OSX Lion",
       "Safari 5.1 OSX Lion"
     ],
-    "Mac OS X Mavericks": [
+    "Mac OS X": [
       "Firefox3.6 OSX Mavericks",
       "Firefox4.0 OSX Mavericks",
       "Firefox5.0 OSX Mavericks",
@@ -2594,7 +2594,7 @@
       "Opera12.16 OSX Mavericks",
       "Safari 7 OSX Mavericks"
     ],
-    "Mac OS X Mountain Lion": [
+    "Mac OS X": [
       "Firefox3.6 OSX Mountain Lion",
       "Firefox4.0 OSX Mountain Lion",
       "Firefox5.0 OSX Mountain Lion",
@@ -2645,7 +2645,7 @@
       "Opera12.16 OSX Mountain Lion",
       "Safari 5.1 OSX Mountain Lion"
     ],
-    "Mac OS X Snow Leopard": [
+    "Mac OS X": [
       "Firefox4.0 OSX Snow Leopard",
       "Firefox5.0 OSX Snow Leopard",
       "Firefox6.0 OSX Snow Leopard",
