@@ -1,0 +1,11 @@
+# Travis CI credentials
+
+language: php
+
+# Branches to build.
+branches:
+  only:
+    - master
+    - develop
+
+script: "./scripts/run_tests.sh"
